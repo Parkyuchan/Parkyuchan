@@ -116,9 +116,3 @@ AWS · Docker · GitHub Actions · ArgoCD를 활용한 배포 자동화까지
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyc1103)](https://solved.ac/pyc1103)
 
 ---
-
-## ⚠️ Considerations
-
-1. 프로젝트가 많아 **대표 프로젝트 2~3개를 상단에 강조**하지 않으면 강점이 분산될 수 있음  
-2. AWS·EKS·GitOps 강점이 있으므로 Introduce에 **“백엔드 + 인프라” 포지션을 더 명시**하는 것도 선택지  
-3. Solved.ac 배지가 추가되면 **알고리즘 비중을 어디까지 어필할지** 전략적으로 조절 필요
