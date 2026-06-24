@@ -57,8 +57,6 @@ AWS · Docker · GitHub Actions · ArgoCD를 활용한 배포 자동화까지
 | 2023 | 보건 동행 매칭 플랫폼 | https://github.com/Parkyuchan/Multi |
 | 2022 | 교내외 정보 통합 플랫폼 | https://github.com/Parkyuchan/finalhihu |
 
-> ※ 링크는 README 템플릿용 예시이며, 실제 레포지토리명에 맞게 수정 권장
-
 ---
 
 ## 🛠 Tech Stack
